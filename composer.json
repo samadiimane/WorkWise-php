@@ -1,0 +1,16 @@
+{
+    "name": "samadiimane/workwise-php",
+    "description": "Job listing application",
+    "authors": [
+      {
+        "name": "imane samadi",
+        "email": "imanesamadi21@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Framework\\": "Framework/",
+        "App\\": "App/"
+      }
+    }
+  }
